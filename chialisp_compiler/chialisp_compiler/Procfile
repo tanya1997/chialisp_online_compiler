@@ -1,0 +1,1 @@
+web: gunicorn chialisp_compiler.wsgi

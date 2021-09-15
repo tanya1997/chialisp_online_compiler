@@ -1,0 +1,9 @@
+.split{
+    padding-top: 65px;
+    height: auto !important;
+    min-height: 0 !important;
+  }
+
+  .output{
+    padding-top: 50px;
+  }
