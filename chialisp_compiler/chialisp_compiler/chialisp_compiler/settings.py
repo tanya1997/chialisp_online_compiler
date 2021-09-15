@@ -57,7 +57,7 @@ CORS_ORIGIN_ALLOW_ALL = False
 
 CORS_ORIGIN_WHITELIST = (
        'http://localhost:3000',
-       'https://chialisp.netlify.app/'
+       'https://chialisp.netlify.app'
 )
 
 ROOT_URLCONF = 'chialisp_compiler.urls'
